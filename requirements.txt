@@ -1,0 +1,9 @@
+# Core dependencies for both scripts
+psutil>=5.9.0
+argparse>=1.4.0
+
+# Dependencies for executable creation
+pyinstaller>=5.8.0
+py2exe>=0.13.0.0
+auto-py-to-exe>=2.32.0
+
